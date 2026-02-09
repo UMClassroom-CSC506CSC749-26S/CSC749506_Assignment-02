@@ -66,19 +66,9 @@ from the preceding axioms.
 <LI> Prove the theorems using an ATP system.
 </UL>
 Submit one file containing all the axioms and conjectures, in the order they are listed above.
-Your submission will be graded according to the following:
-<UL>
-<LI> Types - 4%
-<LI> Axioms - 4%
-<LI> Consistent axioms 4% (only if seriously encoded)
-<LI> Conjectures 4%
-<LI> Provable conjectures 4% (only if seriously encoded and axioms are consistent)
-</UL>
-
-It is worth 20% of the subject's assessment.
-Please review the <A HREF="https://www.cs.miami.edu/home/geoff/Courses/CSC749-26S/Admin/">
-policies on assessment</A> in the administration document.
-
 This assignment is worth 20% of the course assessment.
 It will be graded according to <A HREF="MarkingScheme.md">this marking scheme</A>.
+Please review the <A HREF="https://www.cs.miami.edu/home/geoff/Courses/CSC749-26S/Admin/">
+policies on assessment</A> in the administration document.
+<P>
 <HR><!-- -------------------------------------------------------------------------------------- -->
